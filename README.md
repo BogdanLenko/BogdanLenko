@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Bogdan
+
+I'm study in Germany now, yeah.. I dont work anywhere 😊
+
+##Today I know JavaScript, HTML, CSS and a little bit React, and...
+
+I'm continuing learn programming.
 
 <!--
-**BogdanLenko/BogdanLenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
