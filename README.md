@@ -1,10 +1,6 @@
 # Hi there 👋, I'm Bogdan
 
-I'm study in Germany now, yeah.. I dont work anywhere 😊
-
-## Today I know JavaScript, HTML, CSS and a little bit React, and...
-
-I'm continuing learn programming.
+I'm learning cs, yeah.. I dont work anywhere 😊
 
 <!--
 
